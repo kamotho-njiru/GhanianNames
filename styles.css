@@ -1,0 +1,32 @@
+body {
+    background-image: url("/jimmy-dean-4Oxf-RpTnvY-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.col-md-4 p {
+    font-family: 'Enriqueta', serif;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    color: rgb(80, 141, 255);
+}
+
+span {
+    color: rgb(106, 80, 255);
+}
+
+h1:hover {
+    color: rgb(98, 80, 255);
+}
+
+span:hover {
+    color: rgb(0, 0, 0);
+}
